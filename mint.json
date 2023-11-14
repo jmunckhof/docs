@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "openapi": "https://cllqtv-crs-demo-api.azurewebsites.net/swagger/api/v2/public/swagger.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
